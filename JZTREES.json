@@ -1,7 +1,17 @@
 {
-	"env": [
-		{
-			"HOUDINI_OTLSCAN_PATH": "C:\Users\joshu\Documents\houdini_plugins\JZTREES\otls"
-		},
-	],	
+    "recommends": "houdini_version >= '18.5'",
+
+    "env": [
+        {
+            "JZTREES": "C:\Users\joshu\Documents\houdini_plugins\JZTREES",
+        },
+        {
+            "HOUDINI_OTLSCAN_PATH": "$JZTREES/otls",
+        },
+				{
+						"HOUDINI_TOOLBAR_PATH": "$JZTREES/shelf",
+				},
+    ],
+
+    "path": "$QLIB",
 }

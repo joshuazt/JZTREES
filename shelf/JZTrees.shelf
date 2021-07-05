@@ -5,5 +5,7 @@
  Note, that two definitions of the same element are not allowed in
  a single file. -->
 
-  <toolshelf name="JZTrees" label="JZTrees"/>
+  <toolshelf name="JZTrees" label="JZTrees">
+    <memberTool name="JZT_TrunkGen_nodes_script"/>
+  </toolshelf>
 </shelfDocument>
