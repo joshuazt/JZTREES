@@ -8,10 +8,6 @@
         {
             "HOUDINI_OTLSCAN_PATH": "$JZTREES/otls",
         },
-				{
-						"HOUDINI_TOOLBAR_PATH": "$JZTREES/shelf",
-				},
     ],
-
-    "path": "$QLIB",
+    ,
 }
