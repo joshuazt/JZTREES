@@ -13,7 +13,7 @@ Apprentice or Indie. (no FX at this time).
 
 JZTREES requires Houdini 18.5. Any version before 18.5 will not support procedural wind.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](joshuaztilbrook@gmail.com)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=4ZE72ALUPQV2E&no_recurring=0&currency_code=AUD)
 
 ##  INSTALLATION
 
