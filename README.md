@@ -22,7 +22,7 @@ Downloading JZTREES
 
 NOTE: It is not reccomended to put JZTREES in your home houdini folder.
 
-Installing JZTrees
+Installing JZTrees - VIDEO INSTALL: https://www.youtube.com/watch?v=aPHrA2YlDMw
 
 In the JZTREES root there is a .json file which is used to point houdini towards where the toolkit is located.
 
