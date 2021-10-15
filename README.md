@@ -5,6 +5,8 @@ Houdini procedural vegetation generator and FX toolkit
 
 JZTREES is a set of tools for SideFX Houdini designed to ease the workflow for generating and applying FX to trees and vegetation.
 
+Tutorials https://www.youtube.com/playlist?list=PLLfO9nS_ZL5tQbksSiHLQe1kC_BZDKYzm
+
 ## MINIMUM REQUIREMENTS
 
 License Types: 
