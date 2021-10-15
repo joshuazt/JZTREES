@@ -5,6 +5,8 @@ Houdini procedural vegetation generator and FX toolkit
 
 JZTREES is a set of tools for SideFX Houdini designed to ease the workflow for generating and applying FX to trees and vegetation.
 
+Tutorials https://www.youtube.com/playlist?list=PLLfO9nS_ZL5tQbksSiHLQe1kC_BZDKYzm
+
 ## MINIMUM REQUIREMENTS
 
 License Types: 
@@ -12,6 +14,8 @@ License Types:
 Apprentice or Indie. (no FX at this time).
 
 JZTREES requires Houdini 18.5. Any version before 18.5 will not support procedural wind.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=4ZE72ALUPQV2E&no_recurring=0&currency_code=AUD)
 
 ##  INSTALLATION
 
