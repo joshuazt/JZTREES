@@ -6,8 +6,7 @@
             "JZTREES": "C:\Users\joshu\Documents\houdini_plugins\JZTREES",
         },
         {
-            "HOUDINI_OTLSCAN_PATH": "$JZTREES/otls",
+            "HOUDINI_OTLSCAN_PATH": "$JZTREES\otls",
         },
     ],
-    ,
 }
