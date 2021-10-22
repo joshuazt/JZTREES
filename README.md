@@ -7,6 +7,14 @@ JZTREES is a set of tools for SideFX Houdini designed to ease the workflow for g
 
 Tutorials https://www.youtube.com/playlist?list=PLLfO9nS_ZL5tQbksSiHLQe1kC_BZDKYzm
 
+To support the continued development and ease my wife’s pain of me talking constantly about trees. Please Donate bellow.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=4ZE72ALUPQV2E&no_recurring=0&currency_code=AUD)
+
+## ROADMAP
+
+To view the future development Roadmap of JZTrees, follow the trello board here: https://trello.com/b/bKcqHstM/jztrees-development-roadmap
+
 ## MINIMUM REQUIREMENTS
 
 License Types: 
@@ -14,8 +22,6 @@ License Types:
 Apprentice or Indie. (no FX at this time).
 
 JZTREES requires Houdini 18.5. Any version before 18.5 will not support procedural wind.
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=4ZE72ALUPQV2E&no_recurring=0&currency_code=AUD)
 
 ##  INSTALLATION
 
